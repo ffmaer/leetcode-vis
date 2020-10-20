@@ -33,8 +33,6 @@ https://codepen.io/ffmaer/pen/zYBqeBo
 
 85
 
-![](https://github.com/ffmaer/leetcode-vis/raw/master/images/85.png)
-
 ![](https://github.com/ffmaer/leetcode-vis/raw/master/images/85.gif)
 
 https://codepen.io/ffmaer/pen/jOrrGpE
