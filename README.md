@@ -21,7 +21,7 @@ https://codepen.io/ffmaer/pen/LYVydyg
 
 892
 
-![](https://github.com/ffmaer/leetcode-vis/raw/master/images/892.png)
+![](https://github.com/ffmaer/leetcode-vis/raw/master/images/892.gif)
 
 https://codepen.io/ffmaer/pen/xxGgeaE
 
